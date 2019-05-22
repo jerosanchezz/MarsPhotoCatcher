@@ -1,6 +1,6 @@
 # MarsPhotoCatcher
 
-MarsCam lets you see the latest real photos of Mars taken by three Mars Rovers: Curiosity, Opportunity, and Spirit. You can share or save the images of Mars.
+MarsPhotoCatcher lets you see the latest real photos of Mars taken by three Mars Rovers: Curiosity, Opportunity, and Spirit. You can share or save the images of Mars.
 
 Curiosity landed on Mars on August 5, 2012 and still active.
 
